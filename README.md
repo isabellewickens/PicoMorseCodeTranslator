@@ -2,12 +2,12 @@
 
 ### Group Coursework | November 2024  
 **Set By:** Dr. Joey Lam  
-**Grade:** 100%
+**Grade:** 100%  
 **Contributors:** Gabriella Garbini, Jack Wheatley
 
 ---
 
-## 📜 Overview  
+## Overview  
 Developed an interactive Morse code recognition system using a Raspberry Pi Pico as part of a team of three. Implemented button input handling to detect Morse code sequences, with real-time validation and visual feedback via RGB LEDs (green for correct input, red for incorrect). Integrated a 7-segment display to output decoded letters and used a potentiometer to dynamically adjust timing thresholds, allowing user-controlled difficulty.
 
 ---
@@ -21,5 +21,5 @@ Developed an interactive Morse code recognition system using a Raspberry Pi Pico
 
 ---
 
-## 🏆 Outcome  
+## Result  
 Achieved **100%** for the project, reflecting strong collaboration and precise functionality.
